@@ -4,6 +4,7 @@ Bem-vindo ao Jogo do Número Secreto! 🎲
 
 Um jogo interativo no qual o jogador tenta adivinhar um número aleatório dentro de um intervalo predefinido. Esse projeto foi desenvolvido como parte de um desafio de prática da Alura.
 
+---
 
 🚀 Funcionalidades
 
@@ -15,7 +16,7 @@ Um jogo interativo no qual o jogador tenta adivinhar um número aleatório dentr
 
 🔄 Botão de reinício após acertar o número
 
-
+---
 ### 🛠 Tecnologias Utilizadas  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -24,21 +25,28 @@ Um jogo interativo no qual o jogador tenta adivinhar um número aleatório dentr
 ResponsiveVoice (para leitura em voz alta das mensagens)
 
 
-
+---
 
 📦 Como Rodar o Projeto
 Clone o repositório
 
 
-git clone git@github.com:aguidacipriano/numero-secreto-jogo.git
-Abra o arquivo index.html no navegador.
 
-📌 Melhorias Futuras
+git clone git@github.com:aguidacipriano/numero-secreto-jogo.git
+
+
+Abra o arquivo index.html no navegador.
+---
+### 📌 Melhorias Futuras
 🔹 Adicionar um modo difícil com mais números possíveis
+
 🔹 Criar um sistema de pontuação para incentivar múltiplas partidas
+
 🔹 Melhorar a interface com estilos mais modernos
 
+---
 
 🎯 Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação.
+
 🎮 Desenvolvido com foco em aprendizado e prática! 🚀
 
