@@ -27,15 +27,13 @@ ResponsiveVoice (para leitura em voz alta das mensagens)
 
 ---
 
-📦 Como Rodar o Projeto
-Clone o repositório
+## 📦 Como Rodar o Projeto
 
+1. **Clone o repositório**  
+   Clique para copiar o comando abaixo e cole no seu terminal:
 
-
-git clone git@github.com:aguidacipriano/numero-secreto-jogo.git
-
-
-Abra o arquivo index.html no navegador.
+   ```bash
+   git clone git@github.com:aguidacipriano/numero-secreto-jogo.git
 ---
 ### 📌 Melhorias Futuras
 🔹 Adicionar um modo difícil com mais números possíveis
